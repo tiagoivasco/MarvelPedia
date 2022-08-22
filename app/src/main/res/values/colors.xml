@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_200">#FFD34D</color>
+    <color name="yellow_300">#FFC619</color>
+    <color name="grey">#8A9199</color>
+    <color name="red_40">#FFE8EE</color>
+
+    <color name="colorHeroLightest">#6992D1</color>
+    <color name="colorHeroLight">#2E5DA3</color>
+    <color name="colorHero">#1A287A</color>
+    <color name="colorHeroDark">#121A50</color>
+    <color name="darkOcean">#000029</color>
+
+    <color name="colorVillainLightest">#B54743</color>
+    <color name="colorVillainLight">#982929</color>
+    <color name="colorVillain">#6B1B1B</color>
+    <color name="colorVillainDark">#440808</color>
+
+    <color name="colorPowerLightest">#FFE186</color>
+    <color name="colorPowerLight">#FDCE41</color>
+    <color name="colorPower">#C7A232</color>
+    <color name="colorPowerDark">#A38322</color>
+
+    <color name="colorAttackLightest">#3D854E</color>
+    <color name="colorAttackLight">#1E632E</color>
+    <color name="colorAttack">#0B4017</color>
+    <color name="colorAttackDark">#122D18</color>
+
+    <color name="colorFightLightest">#D48744</color>
+    <color name="colorFightLight">#CB6710</color>
+    <color name="colorFight">#944910</color>
+    <color name="colorFightDark">#733907</color>
+
+    <color name="colorLightest">#EEEEEE</color>
+    <color name="colorLighter">#D2D2D2</color>
+    <color name="colorLight">#B1B8BD</color>
+    <color name="colorDark">#868F95</color>
+    <color name="colorDarker">#484A59</color>
+    <color name="colorDarkest">#1D1D1F</color>
+</resources>
